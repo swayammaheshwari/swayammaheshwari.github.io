@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Swayam Maheshwari - Resume</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        body {
+            background-color: #525659;
+            display: flex;
+            justify-content: center;
+            padding: 2rem 0;
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #333;
+        }
+
+        .pdf-page {
+            /* A4 Proportions */
+            width: 21cm;
+            min-height: 29.7cm;
+            background: white;
+            padding: 1.2cm 1.5cm;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            box-sizing: border-box;
+            line-height: 1.35;
+            font-size: 14px;
+        }
+
+        /* Basic styling for the parsed markdown */
+        .pdf-page h1,
+        .pdf-page h2,
+        .pdf-page h3 {
+            color: #000;
+            margin-top: 1em;
+            margin-bottom: 0.3em;
+        }
+
+        .pdf-page p,
+        .pdf-page ul,
+        .pdf-page ol {
+            margin-top: 0.3em;
+            margin-bottom: 0.5em;
+        }
+
+        .pdf-page h1 {
+            font-size: 2em;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 5px;
+        }
+
+        .pdf-page h2 {
+            font-size: 1.5em;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+
+        .pdf-page h3 {
+            font-size: 1.25em;
+        }
+
+        .pdf-page a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+
+        .pdf-page ul,
+        .pdf-page ol {
+            padding-left: 20px;
+        }
+
+        @media print {
+            body {
+                background-color: white;
+                padding: 0;
+            }
+
+            .pdf-page {
+                box-shadow: none;
+                width: 100%;
+                min-height: auto;
+                padding: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="pdf-page" id="resume-content">
+        Loading resume...
+    </div>
+
+    <script>
+        fetch('../assets/resume.md')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Could not load resume.md');
+                }
+                return response.text();
+            })
+            .then(text => {
+                document.getElementById('resume-content').innerHTML = marked.parse(text);
+            })
+            .catch(error => {
+                document.getElementById('resume-content').innerHTML = '<p>Error loading resume.</p>';
+                console.error('Error:', error);
+            });
+    </script>
+</body>
+
+</html>
