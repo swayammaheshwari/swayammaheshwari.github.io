@@ -1,0 +1,51 @@
+# Swayam Maheshwari - Fullstack Developer Portfolio
+
+> Fullstack Developer specializing in MERN Stack, TypeScript, and AI-powered web applications. Expert in OpenAI, Pinecone, and building scalable real-time systems.
+
+## Overview
+
+Swayam Maheshwari is a passionate Fullstack Developer with over a year of experience crafting scalable, AI-powered web applications. Currently working at Walkover Web Solutions Pvt Ltd, Swayam has built products serving 1.7k+ daily users.
+
+## Key Expertise
+
+- **MERN Stack**: MongoDB, Express.js, React.js, Node.js
+- **TypeScript**: Type-safe development practices
+- **AI Integration**: OpenAI API, Pinecone vector search
+- **Real-time Systems**: WebSockets, Yjs collaboration
+- **Cloud & DevOps**: AWS (S3, EC2), GCP Cloud Run, Docker
+- **Databases**: MongoDB, PostgreSQL, Redis, RabbitMQ
+
+## Featured Projects
+
+### TechDoc
+AI-first API documentation platform using OpenAI, Pinecone, Yjs, and GCP Cloud Run. Serves 1.78k+ daily users with semantic search and real-time collaboration.
+
+### Home Deco AI
+AI interior design tool that converts text prompts into realistic room visuals using OpenAI and Pinecone for semantic vector search.
+
+### NewsAI
+Chat-based AI assistant that answers real-time news queries with dynamic summaries from live global sources using NewsAPI and OpenAI.
+
+### Through Us
+Sleek blogging platform with Markdown support, Google Sign-In authentication, and real-time autosave.
+
+## Contact
+
+- **Email**: swayammaheshwari890@gmail.com
+- **LinkedIn**: https://linkedin.com/in/swayammaheshwari
+- **X/Twitter**: https://x.com/swayammaheshwar
+- **GitHub**: https://github.com/swayammaheshwari
+- **Phone**: +91-7724884259
+
+## Links
+
+- **Portfolio**: https://swayammaheshwari.github.io/
+- **GitHub**: https://github.com/swayammaheshwari
+- **LinkedIn**: https://linkedin.com/in/swayammaheshwari
+- **X/Twitter**: https://x.com/swayammaheshwar
+
+## Achievements
+
+- Founder of DLU Coding Club
+- 2nd Place in Octathon 2022 Regional Hackathon
+- Built products serving 1.7k+ daily users

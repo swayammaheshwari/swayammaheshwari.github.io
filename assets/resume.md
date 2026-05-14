@@ -2,7 +2,7 @@
 
 Indore | swayammaheshwari890@gmail.com | 7724884259 | swayammaheshwari.github.io/portfolio
 
-LinkedIn: swayam-maheshwari | GitHub: swayammaheshwari
+LinkedIn: swayammaheshwari | X/Twitter: swayammaheshwar | GitHub: swayammaheshwari
 
 ---
 
@@ -94,7 +94,8 @@ Problem Solving, Fast Learner, Team Communication, Leadership, Growth Mindset
 - Email: swayammaheshwari890@gmail.com
 - Phone: +917724884259
 - Portfolio: https://swayammaheshwari.github.io/portfolio
-- LinkedIn: https://linkedin.com/in/swayam-maheshwari
+- LinkedIn: https://linkedin.com/in/swayammaheshwari
+- X/Twitter: https://x.com/swayammaheshwar
 - GitHub: https://github.com/swayammaheshwari
 - Crawl Digitally: https://crawldigitally.com
 - Amrityu With Nikita: https://amrityuwithnikita.com

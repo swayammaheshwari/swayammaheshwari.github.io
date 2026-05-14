@@ -1,0 +1,20 @@
+# robots.txt for Swayam Maheshwari's Portfolio
+# https://swayammaheshwari.github.io/
+
+User-agent: *
+Allow: /
+
+# Disallow private/internal directories (if any)
+Disallow: /private/
+Disallow: /admin/
+Disallow: /.git/
+
+# Allow search engines to crawl important assets
+Allow: /assets/
+Allow: /css/
+
+# Sitemap location
+Sitemap: https://swayammaheshwari.github.io/sitemap.xml
+
+# Crawl-delay (optional - adjust based on your server capacity)
+Crawl-delay: 1

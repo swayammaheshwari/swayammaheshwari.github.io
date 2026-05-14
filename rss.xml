@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swayam Maheshwari - Fullstack Developer Portfolio</title>
+    <description>Portfolio of Swayam Maheshwari, Fullstack Developer specializing in MERN Stack, TypeScript, and AI-powered web apps.</description>
+    <link>https://swayammaheshwari.github.io/</link>
+    <atom:link href="https://swayammaheshwari.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
+    <managingEditor>swayammaheshwari890@gmail.com (Swayam Maheshwari)</managingEditor>
+    <webMaster>swayammaheshwari890@gmail.com (Swayam Maheshwari)</webMaster>
+    
+    <!-- Portfolio Update -->
+    <item>
+      <title>Portfolio Updated - May 2025</title>
+      <description>Updated portfolio with latest projects, skills, and experience. Added comprehensive SEO and AI discoverability features.</description>
+      <link>https://swayammaheshwari.github.io/</link>
+      <guid isPermaLink="false">portfolio-update-2025-05</guid>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <category>Portfolio</category>
+      <author>swayammaheshwari890@gmail.com (Swayam Maheshwari)</author>
+    </item>
+    
+    <!-- Featured Project: TechDoc -->
+    <item>
+      <title>TechDoc - AI-First API Documentation Platform</title>
+      <description>AI-first API documentation platform (OpenAI, Pinecone, Yjs, GCP Cloud Run) serving 1.78k+ daily users. Features semantic search and real-time collaboration.</description>
+      <link>https://swayammaheshwari.github.io/#projects</link>
+      <guid isPermaLink="false">project-techdoc</guid>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <category>Project</category>
+      <category>AI</category>
+      <category>Documentation</category>
+      <author>swayammaheshwari890@gmail.com (Swayam Maheshwari)</author>
+    </item>
+    
+    <!-- Featured Project: Home Deco AI -->
+    <item>
+      <title>Home Deco AI - AI Interior Design Tool</title>
+      <description>AI interior design tool that converts text prompts into realistic room visuals using OpenAI. Implemented semantic vector search for layout suggestions with Pinecone.</description>
+      <link>https://swayammaheshwari.github.io/#projects</link>
+      <guid isPermaLink="false">project-homedeco</guid>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <category>Project</category>
+      <category>AI</category>
+      <category>Design</category>
+      <author>swayammaheshwari890@gmail.com (Swayam Maheshwari)</author>
+    </item>
+    
+    <!-- Featured Project: NewsAI -->
+    <item>
+      <title>NewsAI - Real-time News Assistant</title>
+      <description>Chat-based AI assistant that answers real-time news queries with dynamic summaries from live global sources using NewsAPI and OpenAI.</description>
+      <link>https://swayammaheshwari.github.io/#projects</link>
+      <guid isPermaLink="false">project-newsai</guid>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <category>Project</category>
+      <category>AI</category>
+      <category>News</category>
+      <author>swayammaheshwari890@gmail.com (Swayam Maheshwari)</author>
+    </item>
+    
+    <!-- Featured Project: Through Us -->
+    <item>
+      <title>Through Us - Modern Blogging Platform</title>
+      <description>A sleek blogging platform featuring comprehensive Markdown support, secure Google Sign-In authentication, and a real-time autosave feature for seamless writing.</description>
+      <link>https://swayammaheshwari.github.io/#projects</link>
+      <guid isPermaLink="false">project-throughus</guid>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <category>Project</category>
+      <category>Blogging</category>
+      <category>Web App</category>
+      <author>swayammaheshwari890@gmail.com (Swayam Maheshwari)</author>
+    </item>
+  </channel>
+</rss>
